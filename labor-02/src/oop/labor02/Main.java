@@ -1,10 +1,5 @@
 package oop.labor02;
-<<<<<<< HEAD
 
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("labor02");
-=======
 import java.util.Random;
 
 public class Main {
@@ -41,6 +36,6 @@ public class Main {
         }
 
 
->>>>>>> 77273a5 (Initial commit)
+
     }
 }
