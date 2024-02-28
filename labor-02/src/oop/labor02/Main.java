@@ -30,6 +30,7 @@ public class Main {
         for (int i=0; i<10; i++) {
             double length = 1 + rand.nextInt(10);
             double width = 1 + rand.nextInt(10) ;
+
             rectangles[i] = new Rectangle(length, width);
             System.out.println(rectangles[i].area() + " - " + rectangles[i].perimeter());
 
