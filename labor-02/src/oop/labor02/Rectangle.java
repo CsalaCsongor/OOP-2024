@@ -27,4 +27,10 @@ public class Rectangle {
         return lenght*2 + width*2;
     }
 
+MyDate date = new MyDate(2004, 3, 2);
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
