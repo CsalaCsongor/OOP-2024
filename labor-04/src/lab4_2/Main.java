@@ -56,5 +56,9 @@ public class Main {
         for (Customer customer : customers) {
             System.out.println(customer);
         }
+
+
+        MyArray myArray =  new MyArray("data.txt");
+        System.out.println(myArray);
     }
 }
