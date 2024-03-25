@@ -19,7 +19,7 @@ public class MyStack {
             this.element[this.top] = value;
             this.top++;
         } else {
-            System.out.println("A verem tele van." + value);
+            System.out.println("A verem tele van.");
         }
     }
     public double pop()
@@ -28,7 +28,6 @@ public class MyStack {
         double removed = element[top];
         element[top] = 0;
         return removed;
-
     }
 
     @Override
