@@ -100,6 +100,8 @@ public class Main {
         Training training4 = new Training(course4, trainingDatesStart, trainingDatesEnd, 1000 + random.nextInt(1001));
 
         Training training5 = new Training(course5, trainingDatesStart, trainingDatesEnd, 1000 + random.nextInt(1001));
+
+
     }
 
 

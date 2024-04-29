@@ -1,0 +1,24 @@
+0, Me, , 1982, Maros, 07498253732468, me@yahoo.com, me.google.com
+1, Anya, , 1961, Maros, 07498253732468, anya@gmail.com, anya.google.com
+2, Apa, , 1960, Maros, 07498253732468, apa@gmail.com, apa.google.com
+3, Jean, , 1980, Maros, 07498253732468, jean@gmail.com, jean.google.com
+999, Chuck, Norris, -4000, Texas, 07498253732468, gmail@chucknorris.com, chucknorris.com
+
+999; 0; 202104171138; Tények Chuck Norrisról; Ha valami nem sikerül elsőre, akkor te nem vagy Chuck Norris.
+999; 0; 202104141138; Tények Chuck Norrisról; Chuck Norris tudja a pi utolsó számjegyét.
+1; 0; 202203091013; sokat keresni; Akarsz sokat keresni?
+999; 0; 202104151138; Tények Chuck Norrisról; Chuck Norris szóra bírta a csendes óceánt.
+999; 0; 202104161138; Tények Chuck Norrisról; Chuck Norris felvette a nem fogadott hívást.
+0; 1; 202203091403; RE: sokat keresni; Igen.
+999; 0; 202104181138; Tények Chuck Norrisról; Chuck Norris képes nullával osztani.
+999; 0; 202104191138; Tények Chuck Norrisról; Amikor Chuck Norris osztást végez, akkor nincs maradék.
+1; 0; 202203091405; RE: sokat keresni; Akkor jól elbújok.
+999; 0; 202104201138; Tények Chuck Norrisról; Chuck Norris nem hord órát. Ő dönti el mennyi az idő.
+999; 0; 202404211138; Tények Chuck Norrisról; A lant, a kardnál is erősebb fegyver... Ha Chuck Norris pengeti.
+
+3; 0; 202303291056; olyan szigorú; Akár a bíróságon is dolgozhatna anyukád, olyan szigorú!
+999; 0; 202104221138; Tények Chuck Norrisról; Chuck Norris be tudja csapni a forgóajtót.
+999; 0; 202104231138; Tények Chuck Norrisról; Chuck Norris elszámolt a végtelenig... Kétszer.
+0; 3; 202303291107; RE: olyan szigorú; Ott dolgozik…
+
+999; 0; 202104241138; Tények Chuck Norrisról; Chuck Norris az egyetlen ember, aki képes a falat legyőzni teniszben.
