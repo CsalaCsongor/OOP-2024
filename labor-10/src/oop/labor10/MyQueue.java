@@ -20,19 +20,20 @@ public class MyQueue {
             front = 0;
         }
         if (front < capacity)
-            items[front++] = value;
+            items[rear++] = value;
 
     }
 
     public double peek() {
 
-        return items[rear];
+        return items[front];
     }
 
     public double take() {
 
-        double save = items[rear];
-        rear++;
+        double save = items[front];
+        items[front] = 0;
+        front++;
         return save;
     }
 

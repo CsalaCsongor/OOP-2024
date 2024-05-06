@@ -1,17 +1,18 @@
 package oop.labor10;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
 
-       MyQueue queue = new MyQueue(5);
+  SortingDemo demo = new SortingDemo("fruit.txt");
 
-       queue.push(3);
+  demo.printFruits();
 
-        System.out.println(queue);
+  demo.sortReverseAlphabetically();
+        System.out.println("\n");
+  demo.printFruits();
 
-        queue.push(1);
-        queue.push(2);
-
-        System.out.println(queue);
+        demo.sortAlphabetically();
+        System.out.println("\n");
+        demo.printFruits();
     }
 }
