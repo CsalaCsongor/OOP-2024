@@ -7,8 +7,9 @@ import java.util.Comparator;
 public class Main {
     public static void main(String[] args) {
 ArrayList<Person> people = new ArrayList<>();
+Collections.sort(people, Person::compareTo3);
 Collections.sort(people, Person::compareTo);
-
+Collections.sort(people, Person::compareTo2);
 
 
         }

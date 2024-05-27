@@ -27,6 +27,14 @@ public class Person {
     public int compareTo(Person o) {
         return this.firstName.compareTo(o.getFirstName());
     }
+
+    public int compareTo2(Person o) {
+        return this.lastName.compareTo(o.getLastName());
+    }
+
+    public int compareTo3(Person o) {
+        return this.birthDate-o.birthDate;
+    }
 }
 
 
